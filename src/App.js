@@ -29,7 +29,7 @@ function App() {
               style={{ color: "white" }}
             >
               <div className="graphContainer">
-                <Chart1 />
+                {/* <Chart1 /> */}
               </div>
 
               <div className="graphContainer">
