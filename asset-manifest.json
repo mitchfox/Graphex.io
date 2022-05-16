@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Graphex.io/static/css/main.2d3ff5bc.css",
-    "main.js": "/Graphex.io/static/js/main.fa007f8b.js",
+    "main.css": "/Graphex.io/static/css/main.662ae09a.css",
+    "main.js": "/Graphex.io/static/js/main.211375b5.js",
     "static/js/787.7b5c0e0b.chunk.js": "/Graphex.io/static/js/787.7b5c0e0b.chunk.js",
     "index.html": "/Graphex.io/index.html",
-    "main.2d3ff5bc.css.map": "/Graphex.io/static/css/main.2d3ff5bc.css.map",
-    "main.fa007f8b.js.map": "/Graphex.io/static/js/main.fa007f8b.js.map",
+    "main.662ae09a.css.map": "/Graphex.io/static/css/main.662ae09a.css.map",
+    "main.211375b5.js.map": "/Graphex.io/static/js/main.211375b5.js.map",
     "787.7b5c0e0b.chunk.js.map": "/Graphex.io/static/js/787.7b5c0e0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d3ff5bc.css",
-    "static/js/main.fa007f8b.js"
+    "static/css/main.662ae09a.css",
+    "static/js/main.211375b5.js"
   ]
 }
